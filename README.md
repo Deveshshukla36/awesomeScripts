@@ -79,3 +79,5 @@ before making a Pull Request:
 <a href="https://api.github.com/repos/py-contributors/awesomescripts/contributors"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" alt="built by developers"></a>
 <a href="https://github.com/codePerfectPlus"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built with love"></a>
 </p>
+<!-- Pull Blame badge test by Devesh -->
+
